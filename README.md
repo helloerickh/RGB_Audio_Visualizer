@@ -35,10 +35,8 @@ This allows music to generate different amplitudes and thus different colors.
 A similar process is used to translate the readings from the trimpot device to adjust the HSV
 Value value.
 There are two animations:
-1. Solid_Animation
-a. Changes the entire LED strip to the calculated HSV color
-2. Middle_Out
-a. Propagates a single HSV color from the middle to the ends of the strip
+1. Solid_Animation: Changes the entire LED strip to the calculated HSV color
+2. Middle_Out: Propagates a single HSV color from the middle to the ends of the strip
 
 To cycle between these two animations, a digital input is received from a button component.
 This button uses a pullup resistor to transmit a “HIGH” value when unpressed. The pressing of
