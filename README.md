@@ -23,7 +23,7 @@ Hardware Design
 Using jumper cables and a breadboard a Sound Detector can be used to convert analog sound into digital input that can be read by the Arduino Uno. 
 The same can be said for the trimpot.
 
-![Simple Schematic]()
+![Simple Schematic](https://github.com/helloerickh/RGB_Audio_Visualizer/blob/main/Schematic.jpg)
 
 Source Code
 
