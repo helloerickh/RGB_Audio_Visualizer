@@ -5,6 +5,8 @@ Summary
 This project sets out to create a music visualizer using a programmable LED Light Strip.
 A music visualizer is essentially a strip of groupings of lights that light up and change color/brightness depending on the beat and tune of the music.
 
+Demonstration Video: https://youtu.be/2KpHtHPWEwY
+
 Use Cases
 - Night Clubs
 - Christmas Trees
